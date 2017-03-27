@@ -1,10 +1,8 @@
-# Indeed-Scrapy-NLP
+# CourseProjects
 
-Use Scrapy to crawl 'data scientist' related jobs from Indeed.com and save the job description.
-
-http://scrapy.org/
+Projects for course 'Introduction to Probability and Data' at Coursera.
 
 Requires
 ---------------
-scrapy
+R
 
